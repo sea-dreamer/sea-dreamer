@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DE-killer
+- 👋 Hi, I’m Jones
 - 👀 I’m interested in data
 - 🌱 I’m currently learning big-data
 
